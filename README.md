@@ -4,7 +4,7 @@
 
 - [ ] We need ethers, so we install and import the ethers. Ethers helps us to communicate with the blockchain network
 - [ ] We need the contractABI, this is a json file which includes all the state and functions of our smart contract. This helps us to communicate and make transactions on the blockchain network
-- App.js file helps us intereact with the blockahin network
+- [ ] App.js file helps us intereact with the blockahin network
 
 ### Screenshot
 
