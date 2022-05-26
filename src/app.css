@@ -94,5 +94,9 @@
         border: 1px solid gray;
         width: 50%;
         margin: auto;
-    }    
+    }
+    
+    .main-container {
+        height: 36.9em;
+    }
 }
