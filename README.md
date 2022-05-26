@@ -17,7 +17,7 @@
 ### Live Version of the App
 [Bank App](https://csb-q441ww-qmbbsp4c7-addod19.vercel.app/)
 
-### Acknowlwdgements
+### Acknowledgements
 
 A special thanks to the team at Cadena for giving me the opportunity to be a blockchain developer
 `team@cadena.dev`
