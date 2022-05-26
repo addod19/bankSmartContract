@@ -6,6 +6,10 @@
 - [ ] We need the contractABI, this is a json file which includes all the state and functions of our smart contract. This helps us to communicate and make transactions on the blockchain network
 - App.js file helps us intereact with the blockahin network
 
+### Screenshot
+
+<img src="appScreenshot.png" alt="Bank App" />
+
 ### How to use the bank app
 
 - [ ] Connect the app with your metamask wallet or any other crypto wallet
