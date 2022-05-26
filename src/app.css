@@ -1,0 +1,98 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container {
+    background-color: #0d172b;
+    height: 100vh;
+}
+
+.customer-section,
+.headline {
+    text-align: center;
+}
+.headline {
+    padding: 1em;
+}
+
+.headline-gradient {
+    font-size: larger;
+}
+
+.customer-section {
+    padding-top: 1em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+
+.mt-5 {
+    margin-top: 1em;
+}
+
+.mt-7 {
+    margin-top: 1.7em;
+}
+
+.mb-9 {
+    margin-bottom: 1.9em;
+}
+
+.form-style {
+    display: flex;
+    flex-direction: column;
+    height: 4em;
+    border: 1px solid gray;
+}
+
+.input-style {
+    background-color: #0d172b;
+    border: none;
+    height: 2em;
+}
+
+.btn-purple {
+    background-color: blue;
+    color: #fff;
+    border: none;
+    height: 2em;
+    position: relative;
+    bottom: -10px;
+}
+
+.btn-purple:hover {
+    cursor: pointer;
+}
+
+.font-bold {
+    font-weight: 800;
+    color: #fff;
+}
+
+.value-color {
+    color: #fff;
+}
+
+.btn-connect {
+    height: 4em;
+    width: 15em;
+    margin-top: 1em;
+    background-color: #006994;
+    border: none;
+    border-radius: 1em;
+    color: #fff;
+    font-weight: bolder;
+}
+
+@media screen and (min-width: 900px) {
+    .form-style {
+        display: flex;
+        flex-direction: column;
+        height: 4em;
+        border: 1px solid gray;
+        width: 50%;
+        margin: auto;
+    }    
+}
